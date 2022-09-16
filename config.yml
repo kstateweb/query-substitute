@@ -1,0 +1,6 @@
+# Gulp will reference these paths when it copies files
+PATHS:
+  # Path to dist folder
+  dist: "dist"
+  entries:
+    - "src/js/query-substitute.js"
